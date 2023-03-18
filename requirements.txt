@@ -1,0 +1,10 @@
+tensorflow-gpu==2.8.3 
+tensorflow==2.8.3 
+tensorflow-recommenders==0.6.0 
+tensorflow-recommenders-addons==0.5.1
+tensorflow_datasets
+notebook
+ipywidgets
+pandas
+numpy
+matplotlib
